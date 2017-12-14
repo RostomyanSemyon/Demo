@@ -1,0 +1,12 @@
+define=demo.Define
+push=demo.Push
+pop=demo.Pop
+sum=demo.Sum
+sub=demo.Subtraction
+mult=demo.Multiplication
+div=demo.Division
+sqrt=demo.Sqrt
+print=demo.Print
+exp=demo.Exp
+log=demo.Log
+com=demo.Comment

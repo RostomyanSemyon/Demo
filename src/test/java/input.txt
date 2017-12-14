@@ -1,0 +1,21 @@
+define a 1
+define b -2
+define c 1
+push a
+push 2
+mult
+push a
+push c
+mult
+push 4
+mult
+push b
+push b
+mult
+sub
+sqrt
+push -1
+push b
+mult
+sum
+div

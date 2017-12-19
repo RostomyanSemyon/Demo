@@ -1,4 +1,4 @@
-package demo;
+package com.jcourse.rostomyan;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

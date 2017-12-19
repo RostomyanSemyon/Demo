@@ -1,4 +1,4 @@
-package demo;
+package com.jcourse.rostomyan;
 
 /**
  * Created by Semyon Rostomyan on 30.11.2017.

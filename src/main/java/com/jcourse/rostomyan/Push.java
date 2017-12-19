@@ -1,4 +1,4 @@
-package demo;
+package com.jcourse.rostomyan;
 
 import java.util.*;
 
